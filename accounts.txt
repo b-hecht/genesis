@@ -1,8 +1,0 @@
-Public address of the key:   0x326206b6b3a5C7492ebEAE994008D64279Af2f5D
-Path of the secret key file: keystore/UTC--2022-12-03T23-58-18.189272821Z--326206b6b3a5c7492ebeae994008d64279af2f5d
-
-Public address of the key:   0x5e0607fEdbcbe290023Cdbb5EE8a15fBc93d12C0
-Path of the secret key file: keystore/UTC--2022-12-03T23-58-42.700528940Z--5e0607fedbcbe290023cdbb5ee8a15fbc93d12c0
-
-Public address of the key:   0x0F6AD34E155e0DDf2957bD4d7bB9BD78CE3E3241
-Path of the secret key file: keystore/UTC--2022-12-03T23-59-15.632067183Z--0f6ad34e155e0ddf2957bd4d7bb9bd78ce3e3241
